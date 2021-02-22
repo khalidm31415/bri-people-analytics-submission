@@ -12,7 +12,7 @@
 - `gender`: stringified
 - `year_graduated` = 2021 - `year_graduated`
 - `age` = 2021 - `age`
-- `gpa`: if gpa > 4 `->` gpa = 0
+- `gpa`: if `gpa` > 4 then `gpa` = 0
 - `job_level`: transformed to ordinal
 - `person_level`: transformed to ordinal
 - `Education_level`: transformed to ordinal
